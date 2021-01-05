@@ -1,22 +1,58 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+
+}.color{
+    color: goldenrod;
 }
-h1{
-    font-size: 50px;
-}
-.color{
-    color: yellow;
+h2{
+font-size: 80px;
+line-height: 30px;
 }
 .half{
     width: 40%;
     float: left;
-    padding: 2%;
-    margin: 5%;
-
-
-
-}  
+    margin-left: 5%;
+    padding-left: 2%;
 }
-.img{
+
+.half img{
     width: 100%;
+    margin-top: -150px;
+    
+}
+p{
+    padding-bottom: 50px;
+
+}
+.button{ 
+    text-decoration: none;
+    background-image: linear-gradient( 50deg, tomato, lightsalmon, violet );
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.half-2 img{
+    width: 100%;
+    margin-top:-150px ;
+  
+    
+
+}
+.half-2{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-3 h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+.half h1{
+    padding-top: 50px;
+    font-weight: bold;
 }
