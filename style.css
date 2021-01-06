@@ -153,5 +153,6 @@ p{
     margin-left: 500px;
     margin-top: -10px;
 }
-#part2{
-    background-color: burlywood;}
+.main{
+   background-color: red
+}
